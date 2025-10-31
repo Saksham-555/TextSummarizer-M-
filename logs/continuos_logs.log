@@ -32,3 +32,8 @@
 [2025-10-30 22:07:20,961: INFO: common: created directory at: artifacts]
 [2025-10-30 22:07:20,966: INFO: common: created directory at: artifacts/data_transformation]
 [2025-10-30 22:07:31,468: INFO: main: Stage Data Transformation stage Completed]
+[2025-10-30 22:59:29,722: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-10-30 22:59:29,737: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-10-30 22:59:29,739: INFO: common: created directory at: artifacts]
+[2025-10-30 22:59:29,739: INFO: common: created directory at: artifacts/model_trainer]
+[2025-10-30 22:59:36,517: WARNING: file_download: Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`]
